@@ -31,7 +31,7 @@ Finally, small businesses must ensure that they are providing explanations for a
 
 Small businesses must also work to build trust with stakeholders, demonstrating their commitment to ethical and responsible use of AI technology.
 
-Conclusion: Final Thoughts
+Conclusion
 --------------------------
 
 In conclusion, adopting artificial intelligence (AI) technology offers many benefits for small businesses, including improved efficiency, personalized recommendations, and optimized resource allocation.

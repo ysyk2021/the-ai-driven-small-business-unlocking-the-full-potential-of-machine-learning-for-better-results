@@ -21,7 +21,7 @@ Additionally, it is important to be transparent about the use of machine learnin
 
 By prioritizing ethical and responsible data analytics practices, small businesses can harness the full potential of machine learning while also maintaining their commitment to ethical business practices.
 
-Conclusion: Final Thoughts
+Conclusion
 --------------------------
 
 In conclusion, machine learning offers many opportunities for small businesses to enhance data analytics and gain valuable insights into their operations. However, small businesses must be aware of potential challenges and ethical considerations associated with the use of machine learning algorithms for data analytics.

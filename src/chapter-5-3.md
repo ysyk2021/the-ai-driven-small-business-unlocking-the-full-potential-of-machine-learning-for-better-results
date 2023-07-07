@@ -28,7 +28,7 @@ Additionally, small businesses must test their algorithms against different data
 
 Small businesses must also comply with all applicable laws and regulations related to AI decision-making, including data privacy and security regulations.
 
-Conclusion: Final Thoughts
+Conclusion
 --------------------------
 
 In conclusion, using AI technology for decision-making in small businesses offers many benefits, including improved efficiency and reduced errors and biases. However, ethical considerations must be a priority when adopting AI technology for decision-making.
