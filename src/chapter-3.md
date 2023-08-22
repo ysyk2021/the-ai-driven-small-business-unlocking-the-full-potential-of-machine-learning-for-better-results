@@ -1,5 +1,4 @@
-Chapter 2: Leveraging Data Analytics with Machine Learning
-==========================================================
+
 
 In this chapter, we will explore the ways in which machine learning can be leveraged to enhance data analytics within small businesses.
 

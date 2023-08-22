@@ -1,5 +1,4 @@
-Chapter 6: Addressing Ethical Considerations in AI Adoption for Small Businesses
-================================================================================
+
 
 In this chapter, we will explore the ways in which small businesses can address ethical considerations when adopting artificial intelligence (AI) technology.
 

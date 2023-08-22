@@ -1,5 +1,4 @@
-Chapter 5: Automating Business Processes with AI
-================================================
+
 
 In this chapter, we will explore the benefits and potential challenges of using artificial intelligence (AI) technology for business automation in small businesses.
 
