@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can address potential biases in their adoption of artificial intelligence (AI) technology.
 
 The Importance of Addressing Potential Biases in AI Algorithms

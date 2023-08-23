@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ways in which artificial intelligence (AI) can be used to automate repetitive tasks and streamline workflow processes within small businesses.
 
 Explanation of AI Automation for Small Businesses

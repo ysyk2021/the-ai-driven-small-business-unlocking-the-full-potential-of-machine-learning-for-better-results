@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ways in which artificial intelligence (AI) can be leveraged to enhance the customer experience within small businesses. Specifically, we will discuss the use of AI-powered tools for personalized marketing campaigns and chatbots for customer service.
 
 Personalized marketing campaigns

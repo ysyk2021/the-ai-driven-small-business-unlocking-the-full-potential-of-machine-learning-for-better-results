@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the potential ethical considerations that small businesses must address when adopting artificial intelligence (AI) technology.
 
 Protecting Data Privacy and Security

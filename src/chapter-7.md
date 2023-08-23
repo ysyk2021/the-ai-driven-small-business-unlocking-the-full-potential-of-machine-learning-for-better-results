@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ways in which small businesses can address ethical considerations when adopting artificial intelligence (AI) technology.
 
 Discussion of Ethical Considerations when Using AI for Small Businesses

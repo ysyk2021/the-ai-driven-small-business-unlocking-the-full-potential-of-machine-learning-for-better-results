@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can use artificial intelligence (AI) technology to improve decision-making processes and the potential ethical considerations that must be addressed.
 
 Benefits of Using AI for Decision-Making in Small Businesses

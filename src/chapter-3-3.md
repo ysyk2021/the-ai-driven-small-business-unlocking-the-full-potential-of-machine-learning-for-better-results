@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ways in which machine learning can be leveraged to enhance data analytics within small businesses. Specifically, we will discuss potential challenges and ethical considerations in using machine learning for data analytics.
 
 Potential Challenges

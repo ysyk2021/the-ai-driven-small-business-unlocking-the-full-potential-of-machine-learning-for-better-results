@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the ways in which artificial intelligence (AI) can be leveraged to improve decision-making processes within small businesses. Specifically, we will discuss the use of AI for data analysis and insights to support decision-making processes.
 
 Use of AI for data analysis and insights to support decision-making processes

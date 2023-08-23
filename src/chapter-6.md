@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the benefits and potential challenges of using artificial intelligence (AI) technology for business automation in small businesses.
 
 Use of AI for Automating Repetitive Tasks and Workflow Processes
